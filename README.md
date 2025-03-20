@@ -15,4 +15,10 @@
 | LED.vhd              | 10个LED控制代码，用于控制LED的若干个状态，包括闪烁模式、亮度控制等                      |
 | Nixie_Tude.vhd       | 6个数码管控制模块代码，用于输出状态信息数据                                     |
 
+# IMAGE
+
+## 二红外解码状态及设计与实现
+
+![image](LED_Control_with_Infrared_FPGA_VHDL/IMAGE/2.0二红外解码状态及设计与实现.png)
+
 
