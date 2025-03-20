@@ -19,6 +19,6 @@
 
 ## 二红外解码状态及设计与实现
 
-![image](LED_Control_with_Infrared_FPGA_VHDL/IMAGE/2.0二红外解码状态及设计与实现.png)
+![image](/IMAGE/2.0二红外解码状态及设计与实现.png)
 
 
