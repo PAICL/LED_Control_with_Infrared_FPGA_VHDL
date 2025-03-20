@@ -1,1 +1,1 @@
-
+注意在Infrared_control.bdf中的接口需要根据每个接口的作用自己配置符合自己FPGA芯片接口的链接
